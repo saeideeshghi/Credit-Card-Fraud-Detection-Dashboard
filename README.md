@@ -88,10 +88,8 @@ streamlit run app/streamlit_app.py
 │   ├── best_model.pkl            # بهترین مدل ذخیره‌شده
 │   ├── scaler.pkl                # فایل استانداردسازی داده‌ها
 │   └── metrics_summary.json      # خلاصه متریک‌ها و آستانه‌ها
-├── data/
-│   └── creditcard.csv            # دیتاست اصلی (از Kaggle)
-├── CreditCard_Fraud_Rewritten.ipynb  # نوت‌بوک آموزش مدل
-├── credit_fraud_pipeline.py      # اسکریپت آموزش و ذخیره مدل
+├── creditcard.csv                # دیتاست اصلی (از Kaggle)
+├── Untitled.ipynb                # اسکریپت آموزش و ذخیره مدل
 ├── requirements.txt
 └── README.md                     # مستند پروژه (همین فایل)
 
